@@ -1,0 +1,29 @@
+{
+  "name": "alfred-timestamp",
+  "version": "0.0.1",
+  "description": "alfred workflow timestamp",
+  "license": "MIT",
+  "repository": "adol1111/alfred-timestamp",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "link": "alfred-link",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.9.1",
+    "moment": "^2.24.0"
+  }
+}
