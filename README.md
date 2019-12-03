@@ -1,4 +1,4 @@
-# alfred-timestamp [![Build Status](https://travis-ci.org/raphael/alfred-timestamp.svg?branch=master)](https://travis-ci.org/raphael/alfred-timestamp)
+# alfred-timestamp  [![Actions Status](https://github.com/Adol1111/alfred-timestamp/workflows/Node%20CI/badge.svg)](https://github.com/Adol1111/alfred-timestamp/actions)
 
 > alfred workflow for timestamp
 
